@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Sudoku Game
 
 ## Overview
@@ -21,3 +22,6 @@ This project is a simple Sudoku game built with React. It includes a grid for th
 1. Clone the repository:
    ```bash
    git clone https://github.com/your-username/sudoku-game.git
+=======
+# Sudoku
+>>>>>>> 30cab5aee2ec5ac9448e99aa478979a4558011b5
